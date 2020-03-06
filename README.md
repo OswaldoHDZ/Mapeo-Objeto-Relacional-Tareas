@@ -1,3 +1,6 @@
+#Este repositorio contiene el repositorio del curso
+
+
 # Curso Mapeo/Objeto Relacional en la UACM.
 
 Diapositivas del curso: 
@@ -8,3 +11,5 @@ https://docs.google.com/document/d/1s48O7It63_xBHmGY6We94Lkbgmgb94EE6gKVbIIvbyQ/
 
 ## Instrucciones para arrancar la base de datos portable
 Revisar el archivo COMANDOS.TXT dentro de la carpeta: base-portable-hsqldb
+
+
