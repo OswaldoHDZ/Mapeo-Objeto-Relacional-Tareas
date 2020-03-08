@@ -1,21 +1,10 @@
-# Este repositorio contiene las TAREAS del curso
+# Este repositorio contiene las TAREAS del curso mapeo objeto relaciónal
 
-#Información del estudiante
+## Información del estudiante
+Usa dos saltos de linea. 
 
-Nombre:       Oswaldo Josue Hernández Juárez
-Matricula :   14-003-1338
-Universidad:  Universidad Autónoma de la Ciudad de México
-
-
-# Curso Mapeo/Objeto Relacional en la UACM.
-
-Diapositivas del curso: 
-https://docs.google.com/presentation/d/1WQhjKpWdoYNUowlWNCYoZIdIYbW8BSRx3_zJPoEfem4/edit?usp=sharing
-
-Temario: 
-https://docs.google.com/document/d/1s48O7It63_xBHmGY6We94Lkbgmgb94EE6gKVbIIvbyQ/edit?usp=sharing
-
-## Instrucciones para arrancar la base de datos portable
-Revisar el archivo COMANDOS.TXT dentro de la carpeta: base-portable-hsqldb
+    Nombre:       Oswaldo Josue Hernández Juárez.
+    Matricula :   14-003-1338.
+    Universidad:  Universidad Autónoma de la Ciudad de México
 
 
