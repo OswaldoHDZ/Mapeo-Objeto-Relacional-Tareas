@@ -2,6 +2,10 @@
 
 Curso de **"Mapeo Objeto/Relacional"** de la UACM San Lorenzo Tezonco.
 
+#Estudiante
+
+Oswaldo Josue Herández Juárez
+
 Instructor: Ismael Robles
 
 ## Instrucciones (Documento)
